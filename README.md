@@ -13,4 +13,7 @@ My test task with using js, css, html technology stack
 -	все вышеперечисленные данные должны автоматически обновляться раз в 5 секунд.
 
 Возможный вариант внешнего вида приложения:
+ ![possible appearance of the application](https://cdn.discordapp.com/attachments/427239379459637259/683992198316032012/iis_test_task_web_page.jpg)
  
+ Спойлер: итоговый результат:
+ ![my_appearance_of_the_application](https://cdn.discordapp.com/attachments/427239379459637259/683992815046623232/iis_test_task_web_page_myversion.jpg)
