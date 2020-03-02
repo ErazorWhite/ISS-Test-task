@@ -1,5 +1,6 @@
 # International-Space-Station-Pure-JS-HTML-CSS-
-My test task with using js, css, html technology stack
+My test task with using js, css, html technology stack.
+Special thanks to ![WarmHands](https://github.com/WarmHands) for helping with some js tricks.
 
 Тестовое задание
 Международная Космическая Станция (МКС) мчится по земной орбите со скоростью 27700 км/ч - за сутки она успевает облететь Землю почти 16 раз! Программа станции обеспечивает непрерывное присутствие человека в космосе с момента запуска первой экспедиции 31 октября 2000 года, и за это время её посетило более 200 человек из восьми стран. 
